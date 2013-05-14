@@ -1,0 +1,153 @@
+import java.util.*;
+import java.io.*;
+
+
+
+public class greedy {
+	static int paper_number=0;
+	static int reviewer_number=0;
+	static int paper_q=0;
+	static int reviewer_q=0;
+	static //input reviewer*paper, paper ID, reviewer ID
+	String reviewer_paper="";//matrix
+	static String paper_topic_count="";//paper topic 
+	static String paper_ID="";
+	static String reviewer_ID="";
+	static String setting="con/setting";//set the first four parameters
+	public static void main(String arg[]){
+	/*aList is reviewer_paper
+	 * al, al_sort is paper_topic_count
+	 * PI
+	 * RI
+	 * 
+	 * 
+	 */
+		
+		
+		
+		try {
+			BufferedReader setfile = new BufferedReader (new FileReader(setting));
+		//set the parameter
+			reviewer_paper = setfile.readLine().trim();
+			paper_topic_count = setfile.readLine().trim();
+			paper_ID = setfile.readLine().trim();
+			reviewer_ID = setfile.readLine().trim();
+
+			paper_number = Integer.parseInt(setfile.readLine().trim());
+			reviewer_number = Integer.parseInt(setfile.readLine().trim());
+			paper_q = Integer.parseInt(setfile.readLine().trim());
+			reviewer_q = Integer.parseInt(setfile.readLine().trim());
+			
+	//read reviewer_paper
+			BufferedReader reviewer_paper_file = new BufferedReader (new FileReader(reviewer_paper));
+			List<List<Integer>> aList = new ArrayList<List<Integer>>();
+			String weight="";
+			String[] temp;			
+			while((weight=reviewer_paper_file.readLine())!=null){
+				temp=weight.split("\t");
+				List<Integer> aListData = new ArrayList<Integer>();
+					for (int i=0;i<temp.length;i++){
+						aListData.add(Integer.parseInt(temp[i]));
+					}
+					aList.add(aListData);
+				
+			}
+//aList.get(0).get(0) paper*reviewer
+			
+	//read paper_topic_count
+			BufferedReader countarray=new BufferedReader(new FileReader(paper_topic_count));
+			String number="";
+			ArrayList ca=new ArrayList();
+			ArrayList ca_sort=new ArrayList();
+			while((number=countarray.readLine())!=null){
+				ca.add(Integer.parseInt(number.trim()));
+				ca_sort.add(Integer.parseInt(number.trim()));
+			}		
+			
+	//read paper_ID
+			BufferedReader paper_ID_file=new BufferedReader(new FileReader(paper_ID));
+			String temp2="";
+			ArrayList PI= new ArrayList();
+			while((temp2=paper_ID_file.readLine())!=null){
+				PI.add(Integer.parseInt(temp2.trim()));
+			}
+			
+	//read reviewer_ID
+			BufferedReader reviewer_ID_file=new BufferedReader(new FileReader(reviewer_ID));
+			String temp3 = "";
+			ArrayList<Integer> RI = new ArrayList();
+			while((temp3=reviewer_ID_file.readLine())!=null){
+				RI.add(Integer.parseInt(temp3.trim()));				
+			}
+			
+	//sort the paper according to topics number
+			Collections.sort(ca_sort);
+			ArrayList pos=new ArrayList();
+			for(int i=1;i<=ca_sort.size();i++){
+				Object a =ca_sort.get(i);
+				pos.add(ca.indexOf(a));
+				
+			}
+	//initial the paper_q and reviewer_q
+			ArrayList<Integer> paper_q_l=new ArrayList<Integer>();
+			ArrayList<Integer> reviewer_q_l=new ArrayList<Integer>();
+			for (int i=0;i<paper_number;i++){
+				paper_q_l.add(paper_q);
+			}
+			for(int i=0;i<reviewer_number;i++){
+				reviewer_q_l.add(reviewer_q);
+			}
+			//greedy
+			
+			BufferedWriter assign=new BufferedWriter(new FileWriter("assign"));
+			
+			
+			for (int i=0;i<paper_number;i++){
+				for(int l=0;l<paper_q;l++){
+					//find the max
+					int temp5=Collections.max( aList.get(i));
+					int index=aList.get(i).indexOf(temp5);
+					Integer q =reviewer_q_l.get(index);
+//check the reviewer quota, if yes assign and set it as 0 and quota minus one, other set it as 0
+					if (q.compareTo(0)>0){
+						assign.write(PI.get(i)+"\t"+RI.get(index));
+						aList.get(i).set(index, 0);
+						int temp6= reviewer_q_l.get(index);
+						reviewer_q_l.set(index, temp6-1);						
+						//assign
+						//
+					}else{
+						aList.get(i).set(index, 0);
+//maybe some problems come out
+					}	
+				}		
+			}
+			assign.close();
+			
+			/*aList is reviewer_paper
+			 * al, al_sort is paper_topic_count
+			 * PI
+			 * RI
+			 * paper_q_l
+			 * reviewer_q_l
+			 */	
+			
+			
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+	
+		
+		
+		
+		
+		
+		
+	}
+}

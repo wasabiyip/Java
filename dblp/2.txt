@@ -1,0 +1,4215 @@
+CALL FOR PAPER
+Information Resources
+computing
+journal
+fuzzy logic
+journal
+Fuzzy clustering
+data analysis
+Fuzzy decision
+support system
+mathematical programming
+Fuzzy modeling
+fuzzy control
+fuzzy systems
+pattern recognition
+process control
+reasoning system
+computer vision
+electronic commerce
+robotics
+control
+JOURNAL
+journal
+Medical Information
+Call for paper
+accessibility
+accessibility
+Case studies
+Web Metrics
+Model
+data quality
+Web Application
+Virtual world
+Spam
+Navigation
+Mining
+Information Retrieval
+Web data
+face Model
+Intellectual Property
+Internet
+Privacy
+Digital Library
+CALL FOR PAPER
+Education
+context
+education
+professional experience
+cooperation
+education
+cooperation
+gender
+culture
+Collaborative learning
+standards
+Distance learning
+Data Mining
+Privacy
+arts
+web site
+COMPUTER
+Proteomics
+Genomics
+Data Management
+CALL FOR PAPER
+Genomics
+its
+gene expression
+genomics
+proteomics
+protein structure
+genomics
+Proteomics
+Proteomics
+genomics
+gene expression
+gene expression
+Mass Spectrometry
+proteomics
+mass spectrometry
+Proteomics
+databases
+proteomics
+proteomics
+proteomics
+efficient algorithms
+Mass Spectrometry
+proteomics
+data analysis
+proteomics
+semantic
+bioinformatics
+management systems
+genomics
+proteomics
+bioinformatics
+databases
+genomics
+proteomics
+computer
+proteomics
+genomics
+software tools
+model
+visualization tool
+databases
+genomics
+proteomics
+Data management
+Proteomics
+Genomics
+mass spectrometry
+microarray data
+image processing
+Protein structure prediction
+Data Mining
+Neural Networks
+Soft Computing
+proteomics
+Software
+proteomics
+genomics
+visualization
+genomics
+Data models
+proteomics
+genomics
+proteomics
+genomics
+Knowledge management
+text mining
+ontologies
+proteomics
+genomics
+protein-protein interactions
+network
+proteomics
+genomics
+Service
+Standards
+proteomics
+genomics
+Genomics
+Proteomics
+data models
+genomics
+proteomics
+Data quality
+Medical Images
+journal
+web site
+Computer
+digital library
+Bioinformatics
+Sequence Data
+Mining
+Computer
+time series
+web server
+distributed computer
+communication networks
+transaction data
+mining
+case studies
+case studies
+mining
+Sequential patterns
+its
+Data stream Mining
+Time series
+Mining
+data Mining
+Mining
+Privacy issues
+sequence data
+Mining
+case studies
+mining
+security
+Medical Information
+Software Engineering
+software engineering
+Computer Science
+Call for Paper
+Computer Science
+CALL FOR PAPER
+product development
+service
+its
+risk management
+marketing 
+model
+law
+JOURNAL
+knowledge acquisition
+context
+journal
+Information Resources
+Medical Information
+Computer
+Software
+Artificial Neural Network
+Call for Paper
+planning
+control
+computing systems
+artificial neural network
+artificial neural network
+information management
+artificial neural network
+context
+neural network
+Fuzzy neural network
+network
+Recurrent neural network
+Artificial neural network
+network
+neural network
+neural network
+journal
+Industrial Engineering
+Systems Management
+Industrial Engineering
+Systems Management
+Industrial Engineering
+Information Technology
+information systems
+context
+information systems
+enterprise modelling
+enterprise architecture
+information systems
+Enterprise architecture
+Enterprise modelling
+Enterprise modelling
+ontologies
+spl
+Portfolio Management
+Requirements management
+Simulation
+model
+case studies
+search results
+search results
+Journal
+call for paper
+FORMAL MODEL
+Formal model
+Artificial Intelligence
+formal analysis
+computer science
+game theory
+Formal analysis
+multi-agent systems
+standards
+security
+data mining
+cryptography
+data mining
+game theory
+learning theory
+privacy
+security
+Privacy and Security
+Data Mining
+Machine Learning
+Call for paper
+Privacy and security
+data mining
+machine learning
+privacy
+security requirements
+Privacy issues
+data mining
+privacy
+data mining
+learning methods
+security
+authentication
+intrusion detection and response
+classification
+learning algorithms
+game theory
+data analysis
+mining
+data mining
+social network
+decision making
+machine learning
+fraud detection
+intrusion detection and response
+privacy
+security
+mining
+privacy
+security
+biomedical
+security
+authentication
+spam
+data integration
+information sharing
+decision making
+privacy
+network
+privacy and security
+data mining
+machine learning
+cryptography
+game theory
+mining
+privacy and security
+data mining
+machine learning
+cryptography
+data mining
+game theory
+machine learning
+privacy
+security
+privacy and security
+data mining
+machine learning
+privacy and security
+Privacy
+anonymity
+Privacy
+data fusion
+record linkage
+Privacy
+Privacy-aware access control
+machine learning
+security
+classification
+testing
+games
+security
+semi-supervised learning
+decision making
+security
+security
+Privacy
+data mining
+machine learning
+privacy
+mining
+mining
+social network
+graph
+privacy preserving data mining
+privacy
+mining
+Statistical approaches
+privacy preserving data mining
+Security
+machine learning
+machine learning
+Intrusion detection and response
+authentication
+fraud detection
+Statistical analysis
+classification
+Spam
+machine learning
+security
+privacy
+privacy
+data mining
+privacy
+security
+machine learning
+data mining
+data mining
+machine learning
+privacy
+security
+journal
+privacy
+journal
+Privacy
+MACHINE LEARNING
+Accessibility
+spl
+computing
+Internet
+wireless
+internet
+Machine Learning
+Intelligent Systems
+Natural Language
+Natural Language
+Intelligent User Interfaces
+Computer Vision
+Pattern Recognition
+Machine Learning
+accessibility
+Computer Science
+Active Learning
+Robotics
+machine learning
+data sets
+context
+experimental design
+learning methods
+robotics
+context
+robotics
+machine learning
+machine learning
+Active learning
+experimental design
+information gathering
+optimization
+control
+Active vision
+decision making
+context
+robotics
+Information Technology
+sustainability
+its
+sustainability
+information technology
+Innovative Business Models
+e-Government
+Supply Chain
+Business Process
+Enterprise Architecture
+Business Process
+Enterprise Architecture
+Reference Model
+Culture
+Performance Management
+e-Health
+Service
+e-Health
+Cloud Computing
+Service
+Cloud Computing
+Service
+Cloud Computing
+service
+network
+Service
+service
+Cloud Computing
+Service
+Cloud Computing
+CLOUD COMPUTING
+Cloud Computing
+Cloud
+Standards
+Cloud
+Cloud
+Interoperability
+Cloud
+Model
+Cloud
+Model
+Cloud
+Cloud
+Cloud
+Software
+Cloud
+SERVICE
+CLOUD COMPUTING
+Service-Oriented Architecture
+Web Services
+Internet
+Service
+Semantic Web Technologies
+Service
+Model
+Service Composition
+Service Discovery
+Service
+Control
+Service
+Service
+Service
+Service
+Service
+Service
+marketing 
+Service
+Service System
+Enterprise Architecture
+Service
+CLOUD COMPUTING
+Cloud
+Middleware
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Computing
+Context
+Computing
+Peer to Peer
+Computing
+e-Business
+e-Health
+e-Learning
+Social Networks
+CLOUD COMPUTING
+Autonomic Computing
+Computing
+Cloud Computing
+Grid Computing
+Cloud Computing
+Cloud
+Reliability
+Load Balancing
+Cloud
+Security
+Service
+Quality of Service
+Service
+Call for Paper
+Computational Intelligence
+computational intelligence
+Computational Intelligence
+Artificial Neural Networks
+reinforcement learning
+complex systems
+cognitive science
+dynamic programming
+kernel methods
+graph
+model
+neural control
+cognitive robotics
+data analysis
+pattern recognition
+signal processing
+Fuzzy Logic
+Fuzzy logic
+fuzzy set
+optimization
+system architecture
+pattern recognition
+image processing
+fuzzy control
+robotics
+data mining
+information retrieval
+internet
+multimedia
+computing
+computing
+Evolutionary Computing
+genetic programming
+evolutionary algorithms
+software
+learning systems
+intelligent agents
+quantum computing
+bioinformatics
+immune system
+particle swarm
+differential evolution
+Computational Intelligence
+Monte Carlo
+artificial immune systems
+chaos theory
+model
+Computational Intelligence
+games
+robotics
+knowledge extraction
+multi-agent systems
+Requirements Engineering
+CALL FOR PAPER
+software
+constraints
+software
+tool support
+context
+software
+Software
+Service
+Computer Science
+Call for Paper
+Business Intelligence
+Distributed Systems
+business intelligence
+distributed systems
+business intelligence
+distributed systems
+Mining
+Distributed System
+Business Intelligence
+Marketing 
+Information Retrieval
+Knowledge Discovery
+Social Networks
+Web Search
+Collaborative Filtering
+Recommender Systems
+Semantic Web
+Ontology
+Business Intelligence
+Security
+Privacy
+Trust
+e-Commerce
+e-Government
+e-Learning
+Mining
+Web Intelligence
+Service
+Digital Library
+CALL FOR PAPER
+Personalization
+User Modeling
+Journal
+Personalization
+MOTIVATION
+Web 2.0
+Web personalization
+Web sites
+information systems
+networking
+personalization
+information access
+information systems
+personalization
+personalization
+context
+context
+information access
+context
+personalization
+personalization
+personalization
+context
+navigation
+personalization
+personalization
+personalization
+Navigation
+Adaptive Hypermedia
+User Modeling
+Adaptive Hypermedia
+Personalization
+Web 2.0
+Recommender Systems
+personalization
+Personalization
+journal
+search results
+computer systems
+model
+context
+journal
+search results
+3-D object
+model
+robotics
+computer vision
+model
+model
+visualization
+3-D reconstruction
+model
+model
+its
+its
+its
+surface reconstruction
+surface reconstruction
+computer science
+information technology
+surface reconstruction
+government
+Image registration
+3-D reconstruction
+3-D reconstruction
+Medical Information
+Higher Education
+Higher Education
+graph
+graph
+web content
+education
+active learning
+education
+networking
+higher education
+case studies
+education
+education
+graph
+graph
+graph
+graph
+Case studies
+higher education
+networking
+software
+software
+Social networking
+Facebook
+Multimedia
+video conferencing
+Virtual worlds
+Second Life
+software
+open source
+Learning Management Systems
+search methods
+future trends
+e-Learning
+Signal Processing
+context
+social network
+context
+computing
+Signal Processing
+Context
+Databases
+model
+Enterprise Architecture
+Enterprise Architecture
+Enterprise Architecture
+collaborative work
+case studies
+e-government
+system development
+education
+reference model
+models and frameworks
+planning
+network
+Enterprise modeling
+Model
+knowledge management
+software engineering
+service
+model
+its
+context
+its
+its
+search method
+reasoning
+model
+Information Management
+Control Systems
+Information Management
+government
+Government
+Government
+Digital Government
+Internet
+Internet
+Multimedia
+Government
+graph
+Government
+government
+Wireless
+Mobile Networks
+Security
+Call For Paper
+Wireless
+Mobile Networks
+Security
+wireless network
+security
+ubiquitous computing
+wireless
+Mobile networks
+security
+context
+wireless
+computing applications
+security issues
+computing
+wireless
+mobile network
+security issues
+search results
+Security
+constraints
+security tradeoffs
+Key management
+Cryptographic Protocols
+Authentication
+access control
+Trust
+negotiation
+Intrusion detection
+service
+Privacy
+anonymity
+MAC protocol
+security
+traffic analysis
+Security
+embedded systems
+wireless
+mobile applications
+Security and Privacy
+Sensor Networks
+Security
+Wireless Ad Hoc Networks
+Security
+Trust
+model
+Security
+privacy
+Ubiquitous Computing
+Ubiquitous Computing
+Ubiquitous computing
+information age
+Ubiquitous Computing
+robustness
+reliability
+end user
+Ubiquitous computing
+journal
+search results
+Computing
+Ad Hoc Networks
+Intelligent Systems
+location management
+Data management
+Mobile ad
+wireless ad hoc networks
+Mobile agents
+ad hoc network
+Network design
+planning
+Sensor Networks
+Performance Analysis
+Simulation
+Quality of service
+Resource allocation
+Security and privacy
+Service
+Wireless
+Mobile network
+Security
+Wireless sensor network
+Sensor Networks
+network
+operating systems
+optimization
+Location management
+MAC protocol
+wireless sensor networks
+Middleware
+software tools
+Model
+Performance evaluation
+wireless
+mobile systems
+Resource allocation
+service
+fault tolerance
+wireless sensor networks
+Security
+its
+Software
+Visualization
+sensor data
+model
+Ubiquitous Computing
+ubiquitous systems
+Context
+context
+computing
+Distributed Computing
+Human-computer Interaction
+Internet
+Computing
+Interoperability
+Middleware services
+agent technologies
+Security Issues
+Service discovery
+Software
+System support
+service
+Ubiquitous systems
+trust
+model
+network
+computer
+Wireless network
+ubiquitous computing
+Wireless
+Mobile Computing
+Network Protocols
+Wireless Communication
+journal
+journal
+journal
+Journal
+Mobile Services
+World Wide Web
+Internet
+Web Information Systems
+service
+e-business
+its
+its
+e-commerce
+education
+its
+social networks
+Web 2.0
+multimedia data
+Service
+sensor networks
+service-oriented
+computing
+mobile environment
+mobile devices
+wireless networks
+network
+memory
+mobile services
+context
+Journal
+mobile information
+service
+mobile information
+service
+mobile information
+service
+Context
+Web services
+mobile Web
+social network
+Data models
+query languages
+mobile environment
+Web 2.0
+service
+Semantic Web technologies
+Trust
+privacy
+mobile services
+Computer
+service
+dynamic environments
+Middleware
+mobile services
+journal
+Mobile Services
+Computer Science
+Computing
+Business Process
+Business Process
+business processes
+context
+process model
+process model
+model
+its
+process management
+process model
+business process
+business processes
+process management
+model
+process model
+process model
+process model
+reference model
+process model
+process modeling
+Information Processing
+classification
+web site
+Software Product
+Requirements Engineering
+Motivation
+Software product
+supply chain
+software product
+software product
+software engineering
+software product
+Cloud
+Product Development
+Information Systems
+HUMAN-COMPUTER INTERACTION
+JOURNAL
+HUMAN-COMPUTER INTERACTION
+CALL FOR PAPER
+computer
+computer systems
+computing
+communication channels
+computer
+computer
+its
+spl
+games
+journal
+journal
+Pervasive Computing
+Artificial Intelligence
+Interactive Multimedia
+Computer Science
+Software Development
+Requirements Engineering
+Context
+Software
+web pages
+programming languages
+Digital Library
+REQUIREMENTS ENGINEERING
+requirements engineering
+software architecture
+software
+Digital Library
+CONTEXT
+software
+context
+Digital Library
+Digital Library
+SOFTWARE
+software
+its
+context
+Digital Library
+Model
+Software Engineering
+Software Architecture
+Model
+Software Engineering
+model
+software engineering
+software engineering
+model
+Model
+software development
+software
+Model
+its
+software architectures
+model
+software architecture
+Model-driven development
+software architecture
+model
+model
+model
+Model
+model
+software
+model
+model transformation
+tool support
+model
+Model
+Web Services
+Model
+Model
+model
+model
+Model
+model
+model
+model
+model
+model
+model
+model
+model
+Model
+testing
+model
+code generation
+model
+model
+model
+law
+law
+Enterprise Systems
+Requirements Engineering
+Multi-Agent Systems
+Software Architecture
+Knowledge Management
+CALL FOR PAPER
+Multi-Agent Systems
+Simulation
+Complex Systems
+Agent-Based Modeling
+Simulation
+Multi-agent systems
+model
+systems and applications
+software
+simulation
+model
+software applications
+model
+simulation
+Complex Systems
+Agent-Based Modeling
+Simulation
+Agent-based simulation
+Discrete-event simulation
+Multi-Agent Systems
+Simulation
+development process
+simulation tool
+simulation
+formal model
+simulation tool
+its
+Testing
+simulation
+model
+simulation
+Industrial case studies
+simulation
+testing
+Agent-based modeling
+simulation
+Computational Economics
+Agent-based simulation
+network
+agent-based simulation
+Web Site
+web site
+documentation
+Journal
+Complex Systems
+Agent-Based Modeling
+Simulation
+journal
+Web Site
+Call for Paper
+Security
+Distributed Architectures
+Security
+distributed architectures
+cloud
+web services
+data storage
+high reliability
+security
+service
+service
+Service-Level Agreement
+Cloud computing
+security
+security
+cloud
+cloud
+information security
+cloud
+data management
+privacy
+identity management
+security
+security
+cloud
+programming models
+reliability
+service
+cloud
+cloud
+model
+trust
+policy management
+cloud
+security
+model
+cloud
+performance models
+cloud computing
+web services
+security
+security
+distributed architectures
+Service
+Software Engineering
+cooperation
+Software Design
+Network
+Information Technology
+National Science Foundation
+Software
+government
+education
+software
+software
+software
+software engineering
+Software Engineering
+government
+software engineering
+software
+software
+ant system
+problem formulation
+software engineering
+Software Engineering
+software
+its
+software system
+Sustainability
+software systems
+its
+software development
+software
+Software engineering
+health care
+software
+its
+software
+software engineering
+software development
+problem formulation
+search results
+search results
+technology transfer
+software engineering
+education
+software engineering
+education
+software engineering
+web site
+software engineering
+software
+software
+journal
+Evaluation Criteria
+software
+its
+Digital Library
+government
+National Science Foundation
+Software Engineering
+CALL FOR PAPER
+Software Evolution
+Software Evolution
+Automated Software Engineering
+software evolution
+software systems
+context
+control
+Software Evolution
+Software Evolution
+context
+software evolution
+web services
+mobile computing
+information systems
+systems of systems
+model
+software development
+service-oriented architecture
+consistency management
+dynamic reconfiguration
+cost estimation
+risk analysis
+software quality
+Empirical studies
+software evolution
+software evolution
+software evolution
+model
+software evolution
+industrial case studies
+Digital Library
+Journal
+Software
+Software Evolution
+law
+law
+Digital Libraries
+Repositories
+Interoperability
+Digital Libraries
+Repositories
+Interoperability
+interoperability
+context
+digital libraries
+repositories
+network
+digital library
+interoperability
+Call for Paper
+planning
+peer-to-peer
+Journal
+Journal
+INFORMATION SECURITY
+CALL FOR PAPER
+Information Systems
+Security
+information systems
+security
+journal
+journal
+journal
+information systems
+information security
+information systems
+information systems
+security
+privacy
+planning and control
+information security management
+information security
+CALL FOR PAPER
+Information Systems
+Information Systems
+Information Systems Research
+Business Information Systems
+Enterprise Information
+Network
+Information Systems
+Information Systems
+Information Systems research
+information systems
+Information Systems
+case studies
+Information Systems
+Information Systems
+Information Systems
+journal
+theoretical foundations
+information systems
+web site
+web site
+web site
+Information Systems
+Call for Paper
+Data Warehousing
+Knowledge Discovery
+Artificial Intelligence
+Journal
+Computer
+data warehousing
+knowledge discovery
+sensor networks
+data stream
+network
+data warehousing
+knowledge discovery
+data warehousing
+knowledge discovery
+sensor network
+data streams
+sensor network
+data streams
+memory
+data processing
+energy consumption
+data warehousing
+knowledge discovery
+Mining
+Sensor Network
+Data Warehousing
+Knowledge Discovery
+Distributed Computing
+Data Warehousing
+Knowledge Discovery
+Artificial Intelligence
+data warehousing
+knowledge discovery
+sensor network
+data streams
+Data Warehousing
+Knowledge Discovery
+data warehousing
+knowledge discovery
+sensor network
+data streams
+Network
+Knowledge Discovery
+Network
+Network
+Knowledge Discovery
+Network
+Network
+Knowledge Discovery
+Network
+Network
+Knowledge Discovery
+Network
+Network
+Knowledge Discovery
+Network
+Network
+Network
+Network
+Network
+Network
+Network
+Network
+Network
+Network
+Classification
+Network
+Clustering
+Network
+Association Rule
+Mining
+Network
+Outlier Detection
+Network
+Machine Learning
+Network
+Network
+Distributed Knowledge
+Network
+Knowledge Discovery
+Network
+Knowledge Discovery
+Network
+Feature Selection
+Network
+Dimensionality Reduction
+Network
+Network
+Change Detection
+Network
+Knowledge Acquisition
+Model
+Network
+Knowledge Visualization
+Model
+Network
+Model
+Network
+Model
+Network
+Reasoning
+Model
+Network
+Knowledge Discovery
+Network
+Knowledge Discovery
+Network
+Knowledge Discovery
+Network
+Knowledge Discovery
+Network
+Knowledge Discovery
+Network
+Knowledge Discovery
+Network
+Knowledge Discovery
+Model
+Network
+Data Warehousing
+Knowledge Discovery
+Network
+Knowledge Discovery
+Network
+Network
+Semantics
+Network
+Network
+Network
+Knowledge Discovery
+Network
+Journal
+Computer
+Information Systems
+journal
+journal
+soa
+Software Maintenance
+soa
+soa
+Software Maintenance
+its
+software maintenance
+service
+computing
+soa
+Software
+systems design
+maintenance and evolution
+Cloud
+Model
+Reverse engineering
+Security and privacy
+Testing
+quality assessment
+Accessibility
+Mobile Web
+Semantic Web
+Empirical studies
+Web Services
+Enterprise Architecture
+CALL FOR PAPER
+Design Space
+Design Space
+MOTIVATION
+social network
+Facebook
+its
+Design Space
+Design Space
+development process
+Design Space
+its
+Design Space
+design process
+Design Space
+Computer
+design process
+ic design
+Open Systems
+software development
+case studies
+CSCW
+Privacy and Security
+Data Mining
+Machine Learning
+Call for paper
+Privacy and security
+data mining
+machine learning
+privacy
+security requirements
+Privacy issues
+data mining
+privacy
+data mining
+learning methods
+security
+authentication
+intrusion detection and response
+classification
+learning algorithms
+game theory
+data analysis
+mining
+data mining
+social network
+decision making
+machine learning
+fraud detection
+intrusion detection and response
+privacy
+security
+mining
+privacy
+security
+biomedical
+security
+authentication
+spam
+data integration
+information sharing
+decision making
+privacy
+network
+privacy and security
+data mining
+machine learning
+cryptography
+game theory
+mining
+privacy and security
+data mining
+machine learning
+cryptography
+data mining
+game theory
+machine learning
+privacy
+security
+privacy and security
+data mining
+machine learning
+privacy and security
+Privacy
+anonymity
+Privacy
+data fusion
+record linkage
+Privacy
+Privacy-aware access control
+machine learning
+security
+classification
+testing
+games
+security
+semi-supervised learning
+decision making
+security
+security
+Privacy
+data mining
+machine learning
+privacy
+mining
+mining
+social network
+graph
+privacy preserving data mining
+privacy
+mining
+Statistical approaches
+privacy preserving data mining
+Security
+machine learning
+machine learning
+Intrusion detection and response
+authentication
+fraud detection
+Statistical analysis
+classification
+Spam
+machine learning
+security
+privacy
+privacy
+data mining
+privacy
+security
+machine learning
+data mining
+data mining
+machine learning
+privacy
+security
+journal
+privacy
+journal
+Privacy
+Conceptual Modeling
+Conceptual Modeling
+Call for Paper
+conceptual modeling
+computer systems
+conceptual modeling
+information systems
+model
+conceptual models
+conceptual models
+conceptual models
+model
+model
+information systems
+cooperation
+model
+information technology
+model
+information systems
+databases
+knowledge bases
+conceptual model
+information system
+experience and lessons
+uncertainty
+model
+dynamic model
+information processing
+model
+conceptual modeling
+its
+model
+conceptual modeling
+conceptual models
+conceptual models
+conceptual modeling
+conceptual modeling
+information modeling
+conceptual models
+knowledge acquisition
+model
+Information extraction
+model
+uncertainty
+Schema evolution
+context awareness
+Model
+context
+Information integration
+Pattern recognition
+Uncertainty management
+semantic
+memory
+conceptual models
+model
+Storage management
+Security
+information system
+conceptual model
+model
+software engineering
+knowledge management
+cognitive science
+modeling technique
+service
+Conceptual Modeling
+Conceptual Modeling
+Computer Science
+journal
+electronic mail
+Ontology
+Data Mining
+its
+Bayesian networks
+Bayesian networks
+Bayesian networks
+Bayesian networks
+Hidden Markov Models
+Hidden Markov Models
+Hidden Markov Models
+Hidden Markov Models
+Hidden Markov Models
+clustering
+data analysis
+component analysis
+Neural networks
+logical models
+. Nom
+rks. Th
+ization. Num
+ization.<br/
+modelling with
+l networks.</p>
+sionality reduction (15 
+x factorization meth
+ering methods.<br
+rn recognition (Cla
+ification) (15
+ification Algorithms. Cl
+ification tech
+ification Algorithms.</p
+tionary computation (15 
+ic algorithms. Gen
+ic programming. Rob
+ligent systems. Int
+ibution Algorithms. Im
+mining: A p
+Mining and 
+edge Discovery. Pre
+mining. Cla
+ification. Ass
+mining<br/>
+mining.</p>
+r Regression Mode
+. Mea
+<br/>
+r Regression. Reg
+ viol
+r Regression.</p>
+series analysis (15 
+s to 
+series. Reg
+mining.</p>
+stical inference (15 
+ng.<br/
+rn recognition (clu
+ering) (15
+ering. Den
+ering. Gra
+-base
+ering. Clu
+ics. 
+Gender
+Education
+Education
+CALL FOR PAPER
+Software
+Service
+Semantic
+Software
+Service
+Semantics
+Software
+Service
+Semantics
+Knowledge Management
+Software
+Service
+Software Quality
+Testing
+Software Architectures
+Software Process
+Software Design
+Software
+Interoperability
+Software Security
+Software Applications
+e-Service
+Software
+Semantics
+Ontologies and Semantic Web
+Web Data
+Social Networks
+Information Extraction
+Semantic
+Text Mining
+User Modelling
+Personalization
+Content Management
+Service
+Education
+Repositories
+games
+virtual reality
+learning systems
+service
+standards
+Knowledge Management
+Business Intelligence
+Knowledge Management
+Business Intelligence
+Knowledge Management
+Knowledge Sharing
+Business Intelligence
+Performance Management
+Knowledge Management
+Model
+Case Studies
+Knowledge Management
+Software
+Service
+Semantics
+soa
+soa
+database
+database
+Call for Paper
+Recommender Systems
+Recommender Systems
+Motivation
+recommender systems
+model
+model
+service
+service
+user modelling
+recommender systems
+personal information
+model
+model
+context
+Facebook
+education
+multimedia
+context
+network
+model
+recommender systems
+information sources
+model
+recommender systems
+information fusion
+context
+user profile
+user profile
+multimedia
+context
+Context
+context
+context
+network
+CALL FOR PAPER
+Web Information
+standards
+quality control
+Web content
+Web pages
+incomplete information
+trust
+its
+reliability
+Web 2.0
+its
+its
+Web content
+Web content
+Web search
+model
+trust
+Multimedia content
+social networks
+information dissemination
+information age
+spam
+Model
+trust
+trust
+e-commerce
+Computer
+Call for paper
+computer science
+computer
+education
+computer science
+computer science
+education
+Call for Paper
+User Participation
+Context
+Human-Computer Interaction
+User participation
+context
+software
+graph
+education
+software development
+user participation
+development process
+graph
+interaction design
+context
+user participation
+context
+User-centered design
+user participation
+User-centered design
+user participation
+open source software
+User-centered design
+user participation
+end user
+user-centered design
+user participation
+User-centered design
+user participation
+ubiquitous environment
+Information Processing
+Management Information Systems
+Open Source Software
+Computer
+human-computer interaction
+systems design
+Information Technology
+Information Technology
+Systems Development
+Journal
+culture
+software product
+empirical studies
+Journal
+Information Technology
+System Design
+User Participation
+Context
+Journal
+Information Systems
+Databases
+data quality
+databases
+data warehousing
+information systems
+data processing
+information integration
+information retrieval
+knowledge discovery
+databases
+data processing
+data distribution
+Databases
+entity resolution
+Conflict resolution
+data fusion
+Data quality
+model
+query languages
+query processing
+Data quality
+database
+data quality
+database
+metadata
+quality measurement
+Data quality
+Web applications
+Data quality
+mining
+graph
+multimedia databases
+Privacy
+data quality
+Data quality
+Data quality
+Functional Dependencies
+Quality Assessment
+Social Networks
+Data Quality
+data quality
+its
+its
+its
+its
+Call for paper
+complex systems
+network
+autonomy
+model
+computer science
+complex systems
+distributed systems
+autonomic computing
+network
+ubiquitous computing
+risk analysis
+human-computer interaction
+model
+control techniques
+Model
+planning
+model
+reasoning
+distributed systems
+trust
+context
+symbolic model
+ontologies
+reasoning
+Knowledge Management
+E-Learning
+Education
+Education
+education
+Education
+Personalization
+Learning Environments
+Computing
+Information Systems
+Journal
+Education
+Personalization
+Mathematics
+Information Technology
+Education
+Knowledge Management
+E-Learning
+Education
+Formal Aspects
+Security
+Trust
+SOFTWARE ENGINEERING
+FORMAL METHODS
+Formal Aspects
+Security
+Trust
+cooperation
+security
+trust
+Computing
+network
+security
+trust
+control
+trust
+Trust
+security
+formal model
+security
+trust
+formal model
+Formal model
+security
+trust
+Security
+Logics for security and trust
+Trust-based reasoning
+trust management
+Data protection
+Privacy
+Information flow analysis
+Language-based security
+Security
+trust
+ubiquitous computing
+Validation/Analysis tools
+Grid services
+security
+trust
+privacy
+Security
+risk assessment
+access control
+Case studies
+Software
+negotiation
+journal
+journal
+Data Mining
+data processing
+Facebook
+Facebook
+Machine Learning
+Mining
+Constraints
+Graph
+Mining
+Mining
+Graph
+Database
+clustering
+data mining
+machine learning
+data mining
+machine learning
+programming model
+data mining
+machine learning
+data mining
+machine learning
+distributed data
+Wireless
+Pervasive Computing
+Information Security
+CALL FOR PAPER
+Wireless
+pervasive computing
+its
+wireless
+pervasive computing
+distributed computing
+networking
+signal processing
+wireless
+pervasive computing
+wireless
+pervasive computing
+wireless communications 
+networking
+service
+pervasive computing
+wireless communications 
+journal
+Wireless Networks
+Information Technology
+Communication Networks
+Distributed Systems
+Wireless
+peer-to-peer
+Wireless
+mesh networks
+Wireless sensor networks
+pervasive computing
+localization and tracking
+Wireless
+multimedia
+Pervasive computing
+wireless systems
+Wireless
+security
+Wireless
+Wireless network
+Ad-hoc networks
+network
+Wireless
+Game theory
+wireless networks
+Call for Paper
+journal
+Knowledge Management
+E-Learning
+Education
+Pervasive Computing
+e-learning
+e-learning
+e-Learning
+Accessibility
+technologies for e-learning
+Information Society
+Culture
+Software
+Knowledge Management
+computing
+e-learning
+Testing
+Theoretical foundations
+e-learning
+e-Learning
+Web Mining
+Information Retrieval
+Intelligent Systems
+Web Mining
+Information Retrieval
+Intelligent Systems
+e-commerce
+multimedia
+social networking
+multimedia mining
+world wide web
+surveys
+Web Mining
+Web Mining
+Mining
+Uncertainty Reasoning
+Web Mining
+Web Personalization
+Recommendation Systems
+Web Warehousing
+Web Farming
+Context
+Web Mining
+Mining
+Multimedia Web
+Mining
+Web Mining
+Web Mining
+Mining
+Web Mining
+Information Retrieval
+Web Search
+Search Engine
+Classification
+Clustering
+Unsupervised Learning
+Topic Detection and Tracking
+Uncertainty
+Information Retrieval
+Context
+Information Retrieval
+Web Information Retrieval
+Information Retrieval
+Temporal Information
+Multimedia Information
+Support Systems
+User Interfaces and Visualization
+Computer
+Computer
+digital libraries
+service
+Metadata
+Semantic
+semantics
+semantics
+metadata
+semantics
+culture
+metadata
+Metadata
+Semantics
+Metadata
+Semantics
+culture
+Metadata
+Call for Paper
+Metadata
+Semantics
+metadata
+its
+its
+semantics
+its
+Information Systems
+Metadata
+Ontologies
+Semantic Web
+Knowledge Management
+Software Engineering
+metadata
+metadata
+metadata
+Metadata
+Metadata
+metadata
+Metadata
+Empirical studies
+metadata
+ontologies
+Metadata Management
+theory and practice
+Ontology
+Metadata
+Semantic Web
+Metadata
+Knowledge Management
+Metadata
+Software Engineering
+Metadata
+Semantic Web technologies
+Ontologies
+Ontology
+Knowledge Management Systems
+Case Studies
+Metadata and ontologies
+Metadata and ontologies
+Metadata and ontologies
+information management
+Metadata and ontologies
+Metadata and ontologies
+Metadata and ontologies
+education
+Metadata and ontologies
+culture
+Metadata
+ontology
+Metadata
+ontology integration
+Metadata
+navigation
+ontologies
+Learning Objects
+Journal
+Metadata
+Ontology
+Semantic
+Network
+learning techniques
+machine learning
+data mining
+optimization
+problem solving
+Call For Paper
+Intelligent Agents
+Model
+Reinforcement Learning
+Kernel Methods
+Support Vector Machines
+Evolutionary Computing
+Computing
+Neural Networks
+Optimization Method
+Uncertainty
+Unsupervised Learning
+Machine Learning
+Surface Modeling
+Surface Reconstruction
+Anomaly Detection
+Model
+Classification
+Surveys
+Text Mining
+Information Systems
+Privacy and Security
+Unsupervised Learning
+Sensor Network
+Risk Management
+Infocom
+Infocom
+Infocom
+Infocom
+Network
+Computing
+Call For Paper
+graph
+gender
+education
+government
+autonomy
+Accessibility
+Comparative analysis
+case studies
+standards
+Network
+Knowledge Discovery
+network
+network
+network
+network
+model
+knowledge discovery
+network
+network
+its
+model
+mining
+network
+network
+social networks
+data mining
+machine learning
+flow analysis
+Mining
+Mining
+Language Processing
+Text Mining
+natural language
+Mining
+search results
+Computer Science
+Network
+network
+Graph
+Network
+Network
+Clustering
+Bipartite Graphs
+graph
+Network
+Network
+Network
+Network
+network
+Graph
+Mining
+linguistics
+Context
+Information and Knowledge
+information retrieval
+knowledge management
+database
+information systems
+Information Retrieval
+Information Systems
+Search Engine
+Software Applications
+Context
+Information Retrieval
+Semantics
+Database Research
+Repositories
+Cloud
+Cloud
+Data Management
+Cloud
+Cloud
+Text Mining
+Biomedical Informatics
+Data Warehousing
+Semantic
+Information Retrieval
+Information Retrieval
+Information and Knowledge
+Mining
+Web Data
+Text Mining
+Business Models
+Model
+Information Technology
+Web Information Systems
+Mining
+Artificial Intelligence
+Computational Intelligence
+Call for Paper
+Web Information Systems
+Mining
+Artificial Intelligence
+Computational Intelligence
+web information systems
+web mining
+artificial intelligence
+computational intelligence
+Formal Methods
+Software Product Line
+SPL
+Software Product Line
+SPL
+Software product line
+SPL
+Formal methods
+formal methods
+SPL
+SPL
+SPL
+product line
+SPL
+formal methods
+product line
+product line
+product line
+formal methods
+SPL
+formal methods
+SPL
+formal methods
+SPL
+Formal methods
+modeling and analysis
+model
+Formal methods
+Formal methods
+product line
+Formal methods
+product line
+Formal methods
+product line
+programming languages
+semantics
+Formal verification
+product lines
+product line
+theorem proving
+model checking
+static analysis
+SPL
+Formal methods
+SPL
+test case
+testing
+SPL
+Formal methods
+Formal methods
+model
+product lines
+formal methods
+SPL
+formal methods
+SPL
+formal methods
+software product line
+Formal methods
+product line
+SPL
+Space Exploration
+Model
+Software Product Line
+Model
+Model
+Model
+Petri Nets
+Optimization
+Integer Programming
+Product Lines
+Presence
+Model
+Software Product Line
+Software Safety
+Product Line
+Formal Methods
+Formal Methods
+SPL
+SPL
+SPL
+Cooperation
+Computer Science
+Human-Computer Interaction
+its
+Human-Computer Interaction
+Human-Computer Interaction
+culture
+its
+Visualization
+Facebook
+its
+Journal
+journal
+SERVICE
+Service Computing
+CLOUD COMPUTING
+Cloud
+Computing
+COMPUTING
+COMPUTING
+COMPUTING
+Cognitive Technologies
+Systems and Applications
+Call for Paper
+Case Studies
+Call for Paper
+experience reports
+computing
+computing
+Computing
+Information Systems
+computing
+Call for Paper
+Case Studies
+Call for Paper
+experience reports
+computing
+computing
+Call for Paper
+Adaptive Information
+adaptive information
+machine learning and data mining
+model
+machine learning and data mining
+data streams
+databases
+fraud detection
+control
+user modeling
+information retrieval
+text mining
+Data Streams
+software
+context
+information systems
+Classification
+clustering
+data streams
+novelty detection
+Incremental learning
+model
+data streams
+feature selection
+quantitative evaluation
+context
+context
+information retrieval
+recommender systems
+pattern recognition
+user modeling
+decision support
+context
+context
+Case studies
+software
+its
+internet
+its
+case studies
+context
+planning
+developing countries
+documentation
+social networks
+service
+Medical Information
+CALL FOR PAPER
+Data Analysis
+Database Systems
+Information Systems
+Data Analysis
+Database Systems
+Information Systems
+data analysis
+Semantic Web
+Semantic
+data analysis
+Internet
+recommendation systems
+knowledge extraction
+data analysis
+data analysis
+semantic
+recommendation systems
+social networks
+Semantic Web
+Computing
+journal
+Computing
+web site
+COMPUTER SCIENCE
+Computing
+Computer Science
+Computer Science
+programming language
+semantic
+programming language
+ontology
+ontology
+formal methods
+formal method
+reasoning
+reasoning
+reasoning
+computer science
+mathematics
+its
+its
+reasoning
+computational model
+Computer
+Computer
+computing
+Network
+Telemedicine
+Medical Data
+Information Systems
+Computer
+Computer
+Bioinformatics
+Software Systems
+Service
+Medical Information
+Medical Image
+Biomedical
+Image Data
+Decision Support Systems
+Computing Applications
+Knowledge Discovery
+Data Mining
+Image Processing
+Multimedia
+Biomedical
+Databases
+journal
+Proteomics
+Genomics
+Knowledge Discovery
+Ontologies
+Biomedical
+Cloud Computing
+Education
+Data Streams
+Telemedicine
+Computer
+Biomedical
+e-Health
+web site
+Computer
+digital library
+computing
+its
+computer
+Biomedical
+Ontologies
+Graph
+Structured Data
+Graph
+Web site
+Databases
+Information Systems
+Web site
+Graph
+Graph
+Query Language
+Graph
+Graph
+data models
+data representation
+database
+databases
+computer vision
+pattern recognition
+personal information
+information management
+social networks
+graph
+information retrieval
+relational databases
+Semantic Web
+data management
+pattern matching
+databases
+social networks
+human-computer interaction
+graph
+structured data
+models and languages
+graph
+structured data
+graph
+graph
+query processing
+Graph
+pattern matching
+graph
+ontologies
+knowledge representation
+query answering
+graph
+structured data
+Personalization
+graph
+Graph
+query processing
+optimization
+Keyword search
+graph
+structured data
+Information retrieval
+graph
+structured data
+graph
+structured data
+graph
+structured data
+visualization
+graph
+structured data
+biological databases
+Graph
+query processing
+Social Networks
+Web site
+graph
+web site
+SPL
+cooperation
+Call for paper
+Digital Library
+implementation techniques
+Software evolution
+Dynamic optimization
+Experience reports
+case studies
+Education
+context
+its
+Digital Library
+SPL
+Software
+CALL FOR PAPER
+Software Engineering
+Software
+software process
+software process
+model
+model
+Software
+software
+software process
+process improvement
+software engineering
+Software process improvement
+standards
+Process modelling
+model
+development process
+software engineering
+Open source software
+software quality
+software
+software product line
+Quality assurance
+testing
+Software evolution
+software development
+Empirical studies
+software process improvement
+software
+software process improvement
+Call for Paper
+Model
+Model
+Model
+software
+its
+development process
+model
+model
+model
+model
+model
+model
+Its
+development environments
+model
+integration framework
+Repositories
+Transport layer
+Security
+Access Control
+model
+model
+Model
+model
+Model
+Service
+Model
+Model
+Model
+model
+embedded systems
+theory and practice
+model
+software engineering
+experience reports
+CALL FOR PAPER
+Requirements Engineering
+Law
+LAW
+software systems
+government
+law
+Requirements Engineering
+Law
+government
+software systems
+law
+compliance
+law
+formal model
+law
+law
+law
+service
+compliance
+business processes
+compliance
+aviation
+privacy
+security
+e-government
+Government
+Requirements Engineering
+Journal
+Computer
+service
+law
+law
+Law
+Law
+law
+CALL FOR PAPER
+Internet
+Web 2.0
+service
+service-oriented
+cloud computing
+mobile Internet
+government
+its
+its
+journal
+journal
+case studies
+Internet
+Mobile Internet
+Internet
+collaborative work
+Business models
+Education
+Government
+Telecommunication services
+Process modeling
+semantics
+Cloud
+Service composition
+Distributed transaction
+Network management
+Trust
+Privacy
+data protection
+its
+web site
+Trust
+Call for Paper
+trust
+multi-agent systems
+formal methods
+security
+reliability
+security
+trust
+trust
+trust
+security
+reliability
+trust
+its
+self-organising systems
+trust
+its
+dynamic environment
+trust
+trust
+trust
+trust
+its
+self-organising systems
+trust
+self-organising systems
+trust
+trust
+trust
+trust
+Trust management
+self-organising systems
+Formal methods
+trust
+Trust
+multi-agent systems
+Visualization
+trust
+self-organising systems
+trust
+self-organising systems
+trust
+self-organising systems
+Multi-Agent Systems
+Autonomic Computing
+Computing
+trust
+self-organising systems
+trust
+self-organising systems
+self-organising systems
+trust
+security
+reliability
+self-organising systems
+trust
+its
+computer science
+Call for Paper
+motivation
+its
+Computer
+digital library
+Computer
+management system
+Software
+Systems Engineering
+Systems Engineering
+Software
+Systems Engineering
+Cognitive Science
+Software
+Web site
+REsource Discovery
+Web-based Applications
+Service
+database management
+search engine
+service
+its
+its
+its
+metadata
+Resource discovery
+resource discovery
+clustering
+metadata
+data sources
+semantics
+reliability
+trust
+Resource discovery
+Resource Discovery
+resource discovery
+resource discovery
+Web site
+Web site
+Computer Science
+Classification
+metadata
+semantics
+data source
+Service
+standards
+UDDI
+OWL-S
+Web services
+service
+Semantic
+resource discovery
+ontology
+service
+model
+Resource Discovery
+optimization
+Resource Discovery
+Resource Discovery
+resource discovery
+resource discovery
+Quality of Services
+Web site
+Web site
+Web pages
+Genomics
+Business Processes
+process management
+context
+business processes
+business processes
+business process
+model
+business processes
+compliance
+business processes
+business processes
+Business Processes
+Business Process
+software systems
+business process
+software systems
+business processes
+model
+model
+context
+service
+software systems
+context
+business processes
+case studies
+business processes
+business processes
+business process
+model
+use cases
+business processes
+Business rules
+business process
+model
+business processes
+Formal model
+business processes
+business processes
+model checking
+business processes
+Software engineering
+standards
+business processes
+Service-oriented architecture
+business processes
+Interoperability
+business processes
+Semantic Web and ontologies
+business processes
+business processes
+graph
+model
+business processes
+Digital Library
+journal
+Call for paper
+Information Systems
+Information Systems
+Information Systems
+its
+computer science
+journal
+Information Systems
+knowledge management
+business processes
+Software standards
+software
+open source
+mobile commerce
+supply chain
+Business intelligence
+cloud computing
+Recommendation systems
+Web 2.0
+marketing 
+Web 2.0
+social networking
+Personalization
+Information security
+privacy
+CALL FOR PAPER
+network
+Network
+multimedia
+distributed computing
+Distributed Systems
+Distributed databases
+distributed object
+distributed operating systems
+distributed systems
+distributed algorithms
+distributed shared memory
+Network
+Computing
+Web computing
+cluster computing
+cloud computing
+computational grids
+semantic grid
+mobile agents
+web services
+security
+distributed systems
+Parallel Computer
+parallel machines
+interconnection networks
+parallel and distributed systems
+memory
+parallel systems
+Model
+Parallel Programming
+performance prediction
+simulation
+parallel program
+visualization tool
+parallel database
+distributed applications
+Support Systems
+logic languages
+object-oriented language
+scheduling and load balancing
+Web Computing
+Model
+Simulation
+Optimization
+Peer-to-peer
+Parallel Computing
+Optimization
+Bioinformatics Applications
+High Performance Computing
+Network
+Distributed Systems
+Security
+Network
+Distributed Systems
+Computer
+web pages
+Call For Paper
+Intelligent Tutoring
+Intelligent Systems
+Intelligent Tutoring
+computer
+model
+knowledge-based systems
+machine learning
+planning
+multi-agent systems
+ontology
+computer
+e-learning
+natural language processing
+machine learning
+planning
+multi-agent systems
+ontologies
+semantic Web
+affective computing
+its
+Internet
+Web information systems
+intelligent tutoring
+Intelligent Tutoring
+Intelligent Tutoring
+Education
+software applications
+games
+Intelligent Tutoring
+Simulation system
+Intelligent Tutoring
+Collaborative learning
+Intelligent Tutoring
+Intelligent Tutoring
+Ontology
+Intelligent Tutoring
+Standards
+web services
+Intelligent Tutoring
+Intelligent Tutoring
+Computer
+learning objects
+Intelligent Tutoring
+Intelligent Tutoring
+Computer Science
+Computer Science
+Computer Science
+Computer Science
+Higher Education
+motivation
+education
+developing countries
+education
+collaboration technologies
+its
+education
+education
+its
+education
+Social networks
+education
+Web 2.0
+education
+Cloud computing
+education
+Education
+Call for Paper
+Software Engineering
+Databases
+Data Mining
+Data Mining
+Data Warehousing
+Database
+Database Design
+Database
+Database Management Systems
+Expert Systems
+Knowledge-based Systems
+Object-Oriented Databases
+Query Optimization
+Software Design
+Distributed Software
+Object-Oriented Analysis
+Software
+Software Architecture
+Software Design
+Software
+Software Engineering
+Software Maintenance
+Software
+Software Metrics
+Software Performance Engineering
+Software
+Model
+Software Project Management
+Software Requirements
+Software Testing
+Software Engineering
+Business Process
+Re-Engineering
+Communication Networks
+Computer
+Graph
+e-Commerce
+Education
+m-Commerce
+Medical Informatics
+Wireless
+Computing
+Multimedia Systems
+Parallel and Distributed Systems
+Simulation
+Model
+Software Security
+Optimization
+Fault Tolerance
+Reliability
+Quality Assurance
+Optimization
+Security
+Software
+Software
+Product Lines
+Software
+Software
+Software
+Re-Engineering
+Software Standards
+Verification and Validation
+Software Tools
+Artificial Intelligence
+Data visualization
+Formal Methods
+Graph
+User Interfaces
+Intelligent Agents
+Internet
+Computing
+Logic Programming
+Model
+Simulation
+Model
+Programming Languages
+Software Agents
+Software Tools
+Visualization
+Software Engineering
+Journal
+Expert Systems
+Journal
+Knowledge Engineering
+Knowledge Engineering
+Software Development
+Software
+Software Engineering
+Software Engineering
+Knowledge Engineering
+Knowledge engineering
+Knowledge engineering
+software development
+software
+knowledge management
+knowledge engineering
+software development
+software
+knowledge engineering
+software development
+knowledge engineering
+software development
+context
+distributed software
+knowledge management
+knowledge management
+knowledge management
+knowledge discovery
+service
+decision making
+knowledge management
+software product line
+software
+ontologies
+empirical analysis
+knowledge management
+service
+knowledge management
+semantic web
+software process
+simulation
+knowledge acquisition
+requirements engineering
+knowledge management
+open source software
+model
+knowledge management
+software development
+knowledge management
+service
+knowledge engineering
+distributed knowledge
+software development
+model
+knowledge sharing
+empirical Software Engineering
+virtual team
+software engineering
+intelligent agents
+knowledge management
+knowledge management
+distributed knowledge
+knowledge management
+software engineering
+project management
+software development
+software
+software development
+software development
+Expert Systems
+Journal
+journal
+its
+journal
+Journal
+Expert Systems
+Journal
+Knowledge Engineering
+call for paper
+Model
+model
+model
+model
+model
+classification
+machine translation
+model
+model
+model
+model
+model
+model
+network models
+model
+model
+computational biology
+collaborative filtering
+model
+model
+model
+model
+Facebook
+model
+model
+Data Mining
+Knowledge Discovery
+data mining
+data mining
+Facebook
+Intelligent Tutoring Systems
+model
+model
+mathematics
+optimization
+software
+education
+model
+Facebook
+Web site
+Artificial Intelligence
+Artificial Intelligence
+Computer Science
+its
+Information Technology
+Machine Learning
+machine learning
+Network
+Pattern Analysis
+model
+network
+machine learning
+Machine Learning
+Graphical Models
+Kernel Methods
+Machine Learning
+Natural Language Processing
+Clustering
+Network
+journal
+context
+planning
+peer-to-peer
+Journal
+Journal
+Information Extraction
+Multimedia
+Information Extraction
+Multimedia
+Computer Science
+Internet
+computer
+business models
+Information Extraction
+multimedia
+Internet
+context
+information extraction
+information extraction
+Journal
+navigation
+multimedia
+speech recognition
+Collaborative systems
+Information Retrieval systems
+Multimedia
+trust
+mining
+Ontologies
+metadata
+watermarking
+semantic
+analysis tool
+data sets
+Management System
+navigation
+Vector Quantization
+Human Factors
+Multimedia
+Content-based Video
+Classification
+entity Recognition
+Model
+Event Detection
+Sports Video
+Semantic
+Call for Paper
+data management
+web site
+software
+context
+semantic
+structured data
+meta data
+semantic
+mining
+context
+semantic
+meta data
+privacy protection
+Data security
+Privacy Preserving Data Mining
+Data integration
+Data warehousing
+Data quality
+Data cleansing
+Data analysis
+Semantic
+service
+service
+Information Technology
+Computing
+Information Technology
+Semantic Web
+Mathematics
+serVice EcosYsTems
+service ecosystems
+software
+uncertainty
+software systems
+Software Architectures
+Autonomic Computing
+Software
+control
+context
+service ecosystems
+service
+software
+software
+engineering research
+service ecosystems
+model
+complex systems
+Service ecosystems
+context
+service ecosystems
+architecture and design
+service composition
+model
+models and frameworks
+context
+autonomy
+service ecosystems
+Model
+Middleware
+service ecosystems
+Agent-based architecture
+service ecosystems
+service discovery
+Case studies
+experience reports
+service ecosystems
+Computer Science
+journal
+graph
+context
+Model
+Decision Support
+Mobile Computing
+Context
+Education
+Computing
+Systems Engineering
+CALL FOR PAPER
+Knowledge Discovery
+Sensor Data
+Knowledge Discovery
+Data Mining
+knowledge discovery
+sensor data
+data streams
+graph
+heterogeneous data
+mining
+distributed data
+Mining
+mining
+Efficient algorithms
+mining
+knowledge discovery
+Distributed data
+model
+mining
+knowledge discovery
+Knowledge Discovery
+Sensor Data
+its
+knowledge discovery
+sensor data
+data streams
+mining
+graph
+distributed data
+motivation
+search results
+government
+Digital Library
+journal
+database research
+journal
+journal
+Data Management
+system architecture
+Data Analysis
+statistical methods
+uncertainty
+reasoning
+power management
+data integration
+data quality
+information extraction
+service
+databases
+Data Management
+network
+ubiquitous computing
+User Interfaces
+data visualization
+data analysis
+social networks
+management tools
+JOURNAL
+journal
+Journal
+journal
+Cloud Computing
+cloud computing
+Operating Systems
+Cloud
+Facebook
+Facebook
+location information
+Artificial Intelligence
+Artificial Intelligence
+Artificial intelligence
+Artificial Life
+Automated Reasoning
+Bayesian Networks
+Belief Revision
+Case-Based Reasoning
+Model
+Cognitive Robotics
+Computer Vision
+Computer
+Education
+Conceptual Graphs
+Constraint Satisfaction
+Data Mining
+Data Quality
+E-Commerce
+Evolutionary Computing
+Expert Systems
+Language Processing
+Human Computer Interaction
+Industrial Applications
+Information Retrieval
+Intelligent Agents
+Intelligent Data Analysis
+Databases
+Internet
+Knowledge Acquisition
+Knowledge Discovery
+Knowledge Discovery
+Knowledge Engineering
+Knowledge Representation
+Machine Learning
+Machine Translation
+Mobile Agents
+Multimedia
+Data Source
+Mining
+Natural Language Processing
+Neural Networks
+Qualitative Reasoning
+Reasoning About Actions and Change
+Reasoning
+Analogy
+Reinforcement Learning
+Semantic Web
+Soft Computing
+Image Processing
+CALL FOR PAPER
+Information Security Management
+Information Security
+security
+service
+Information Security Management
+security
+security
+law
+Information Security Management
+Data Security
+Security
+Security Policy
+Authentication
+Privacy
+Software Protection
+Security
+Security
+Risk Assessment
+Internet
+Security
+Computer
+Security
+CALL FOR PAPER
+network
+theory and practice
+Critical infrastructure
+Case studies
+Computer
+Security
+CALL FOR PAPER
+security
+security
+government
+security
+Social networking
+security
+Computer
+Security
+CALL FOR PAPER
+Digital Forensics
+information technology
+Digital Forensics
+digital forensics
+law
+Computer forensics
+Network
+education and training
+Privacy issues
+Digital rights management
+Computer
+Security
+CALL FOR PAPER
+Security
+Security
+Security
+security
+risk management
+security
+security
+security
+Security
+risk management
+security
+Security
+education
+Security
+grid security
+Security
+SCADA
+Security
+Security
+Computer
+Security
+Internet
+journal
+journal
+Internet
+search results
+internet
+Electronic Commerce
+payment systems
+Authentication
+Privacy
+Information security
+Databases
+data mining
+Electronic Commerce
+Internet
+Internet
+Trust
+law
+internet
+Education
+computer
+education
+e-learning
+e-learning
+standards
+mobile learning
+learning environments
+e-commerce
+education
+journal
+Electronic Commerce
+Education
+e-business
+journal
+journal
+journal
+Business Process
+Business Process
+Service
+SOA
+Software
+Service
+context
+software
+model
+service
+business process
+service
+context
+business processes
+service
+business process
+service
+graph
+service
+its
+model
+programming languages
+process model
+business processes
+business processes
+SOA
+Context
+Model
+Model
+business processes
+Model
+Semantics
+Ontologies
+process modelling
+Reasoning
+Use cases
+Internet
+Service
+Business Process
+Business Process
+Internet
+Use case
+use case
+classification
+Semantic Web
+Semantic Web
+Computer Science
+Knowledge Discovery
+Knowledge Engineering
+Knowledge Management
+Web Services
+Trust
+Databases
+Information Systems
+Web Engineering
+journal
+journal
+Journal
+Data and Information Quality
+service
+service
+computing
+service
+service
+anonymity
+spam
+trust
+its
+trust
+trust
+case studies
+trust
+social networks
+Internet
+P2P networks
+spam
+social networks
+spam
+P2P
+spam
+P2P networks
+information quality
+trust
+Internet
+Internet
+trust
+online auctions
+risk analysis
+trust
+recommender systems
+Web information retrieval
+Web Engineering
+Journal
+service
+nano
+Nano
+call for paper
+Network
+Call for Paper
+Mobile devices
+wireless
+wireless
+mobile devices
+government
+social networking
+information and knowledge
+mobile devices
+wireless
+Evaluation and assessment
+mobile devices
+requirements analysis
+context
+Business models
+mobile services
+ in mHe
+y in mHe
+ platfo
+devices or wir
+s networks</li>
+ds.</p>
+.</p>
+ed Busi
+ed Busi
+tion Systems Instit
+CALL FOR PAPER
+MINING
+ubiquitous computing
+semantic
+user interaction
+social networking
+Mining
+data mining
+network
+activity recognition
+Web 2.0
+mining
+privacy issues
+privacy
+mining
+mining
+real-time applications
+mining
+mining
+data mining
+machine learning
+data mining
+data sources
+data mining
+machine learning
+computing
+semantic web
+Web 2.0
+social networks
+data mining
+mining
+data mining
+data mining
+spl
+mobile devices
+Mining
+model
+mining
+classification
+clustering algorithms
+Activity recognition
+Mining
+mining
+Sensor data
+Personalization
+User profiling
+Mining
+Network
+mining
+Discovering misuse and fraud
+mining
+data collection
+Privacy
+search results
+Model
+Data Mining
+Information Retrieval
+graph
+graph
+software reuse
+formal specification
+software design
+software
+Reasoning
+reasoning
+Mathematics
+Computer Science
+Data Exchange
+computer science
+information integration
+data exchange
+data integration
+data streams
+data exchange
+data integration
+database systems
+Digital Rights
+planning
+digital rights
+security
+Business Models
+games
+e-book
+Information Systems
+Information Systems
+journal
+Information Systems
+information technology
+information technology
+Information Systems
+information systems
+information systems
+Journal
+Information Systems
+Information Systems
+Journal
+Journal
+Information Systems
+Journal
+standards
+information systems
+Journal
+Call for Paper
+Information Systems
+Information Technology
+Computer Science
+Digital Library
+Database
+information technology
+wireless
+mobile communication
+internet
+network
+INTERNET
+Call for Paper
+Journal
+journal
+Computer
+Digital Library
+Computing
+Global Information
+Wireless
+Mobile Communication
+INTERNET
+Internet
+Network
+Service
+CALL FOR PAPER
+Social Networks
+Social networks
+Web 2.0
+social networks
+Social network
+Web intelligence
+Web 2.0
+social networks
+social networks
+Social Networks
+social networks
+case studies
+automatic discovery
+social networks
+social networks
+computational intelligence
+software
+simulation
+social networks
+social networks
+semantic
+network
+knowledge discovery
+privacy
+visualization
+Automatic discovery
+social networks
+Visualization
+Social Network
+social network
+Social Network
+Mining
+Social Networks
+Web Site
+Clustering
+Security
+privacy
+trust
+Ubiquitous Computing
+Wireless
+Learning Systems
+Social network
+Network
+social networks
+network
+network
+graph
+network
+network structure
+network
+Social capital
+computer networks
+Computational models
+agent-based simulation
+network
+Social network
+Social network
+Social network
+Artificial Intelligence
+Artificial Intelligence
+hybrid methods
+hybrid methods
+soft computing
+fuzzy logic
+neural networks
+reasoning
+machine learning
+computing
+agent-based approaches
+case-based reasoning
+Semantic Web
+context
+context
+Case-Based Reasoning
+Genetic Algorithms
+Semantic
+Web Intelligence
+Mining
+Knowledge Representation
+Ontologies
+Information Fusion
+Hybrid Intelligent Systems
+Neural Networks
+Intelligent Agents
+Machine Learning
+Bioinformatics
+Education
+Health Care
+service
+database
+Hybrid Intelligent Systems
+Journal
+Semantic
+Computing
+Multimedia Systems
+Semantic
+Computing
+multimedia data
+network
+information technology
+multimedia computing
+multimedia
+mobile devices
+multimedia
+standards
+multimedia
+multimedia data
+multimedia
+multimedia
+multimedia
+signal processing
+multimedia
+semantic
+computing
+mining
+multimedia
+standards
+Quality of Service
+multimedia
+security
+multimedia
+semantic
+computing
+semantic
+multimedia systems
+multimedia
+semantic
+model
+Multimedia
+semantic
+computing
+Computing
+multimedia data
+multimedia computing
+multimedia
+network
+multimedia information
+retrieval systems
+semantic content
+distributed multimed

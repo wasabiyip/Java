@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/8/trunk/dblp/src
+END
+test.java
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/9/trunk/dblp/src/test.java
+END
+CoauthorPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/dblp/src/CoauthorPath.java
+END
+myparser.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/dblp/src/myparser.java
+END
+JavaGetUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/9/trunk/dblp/src/JavaGetUrl.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8/trunk/dblp/src/Person.java
+END
+mergedata.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9/trunk/dblp/src/mergedata.java
+END
+name.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8/trunk/dblp/src/name.txt
+END

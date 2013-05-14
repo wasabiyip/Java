@@ -1,0 +1,2 @@
+Time read data:31
+Time for algorithm:80
