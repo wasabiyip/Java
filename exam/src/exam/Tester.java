@@ -22,7 +22,9 @@ public class Tester implements Runnable {
  		Date d= new Date();
         DateFormat df = 
             new SimpleDateFormat("EE-MM-dd-yyyy");
+        
        df= DateFormat.getInstance();
+       
        
 
 		System.out.println(" "+loc.getDisplayCountry()+ " " + df.format(d));

@@ -4,3 +4,6 @@ package exam;
 	void show();
 
 }
+interface test2 extends testInterface{
+	void test2show();
+}
