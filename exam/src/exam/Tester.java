@@ -25,8 +25,7 @@ public class Tester implements Runnable {
         
        df= DateFormat.getInstance();
        
-       
-
+if (loc instanceof Locale)
 		System.out.println(" "+loc.getDisplayCountry()+ " " + df.format(d));
 
 	}

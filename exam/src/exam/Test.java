@@ -14,6 +14,7 @@ public class Test {
 		return list.iterator();
 	}
 
+	@SuppressWarnings("unchecked")
 	public static void main(String[] args) {
 		List list = new ArrayList();
 		list.add("1");

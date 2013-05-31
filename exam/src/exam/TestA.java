@@ -3,6 +3,7 @@ package exam;
 import java.util.Scanner;
 
 public class TestA {
+	public static void doStuff(int[] doArgs) { }
 	public static void main(String[]... a) throws Exception{ 
 	//public static void main(String[] args) throws Exception {
 		
@@ -15,7 +16,10 @@ public class TestA {
 //			
 //		
 //			public static void main(String...[] a) {
-		
+//		int [] doArgs = null;
+//		TestA.doStuff(doArgs);
+//		TestA.doStuff(1);
+//		TestA.doStuff(1,2);
 	 try{
  new A().sayHello("Aiko");
 	 }catch(Exception e){}
